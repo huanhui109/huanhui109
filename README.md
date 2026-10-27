@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="jason" width="100%">
+  <img src="https://raw.githubusercontent.com/huanhui109/huanhui109/main/assets/banner.svg" alt="jason" width="100%">
   <br><br>
   <a href="https://pmcore.pages.dev"><img src="https://img.shields.io/badge/PMHub-在线体验-0071e3?style=flat-square" alt="PMHub Live"></a>
   <a href="https://github.com/huanhui109?tab=repositories"><img src="https://img.shields.io/badge/Projects-9+-1d1d1f?style=flat-square" alt="projects"></a>
